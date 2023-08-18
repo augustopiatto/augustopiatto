@@ -37,7 +37,7 @@
 
 ### Em andamento
 
-- [PLANeT](https://github.com/augustopiatto/PLANeT) - (React - JS, Flutter, Tailwind, Node-TS)
+- [PLANeT](https://github.com/augustopiatto/PLANeT) - (React - JS, Flutter, Tailwind, Node - TS)
 - [Origamid-Vue](https://github.com/augustopiatto/Origamid-Vue) - (Vue - JS, Vuetify)
 - [Origamid-Wordpress](https://github.com/augustopiatto/Origamid-Wordpress) - (WordPress - PHP)
 
