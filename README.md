@@ -7,7 +7,7 @@
 ## Conhecimentos
 
 ### Front-end
-
+![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)
 
 ### Back-end
 
@@ -16,7 +16,7 @@
 
 ### Em andamento
 
-- ~[PLANeT](https://github.com/augustopiatto/PLANeT) - (React - JS, Flutter, Tailwind, Node-TS)
+- [PLANeT](https://github.com/augustopiatto/PLANeT) - (React - JS, Flutter, Tailwind, Node-TS)
 - [Origamid-Vue](https://github.com/augustopiatto/Origamid-Vue) - (Vue - JS, Vuetify)
 - [Origamid-Wordpress](https://github.com/augustopiatto/Origamid-Wordpress) - (WordPress - PHP)
 
