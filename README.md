@@ -1,4 +1,4 @@
-# Quem é o Augusto
+# Quem sou eu
 
 - Convertido à desenvolvedor web em 2021, atráves do bootcamp `Busercamp`. Participei da segunda edição do bootcamp e trabalhei por 2 anos como desenvolvedor web full-stack. Originalmente sou formado em Engenharia de Materiais.
 - Quero focar em front-end, tenho bastante interesse em UX. Atualmente estou aprendendo React e Flutter.
