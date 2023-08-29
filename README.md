@@ -38,7 +38,6 @@
 
 ### Em andamento
 
-- [PLANeT](https://github.com/augustopiatto/PLANeT) - (React - JS, Flutter, Tailwind, Node - TS)
 - [Origamid-Vue](https://github.com/augustopiatto/Origamid-Vue) - (Vue - JS, Vuetify)
 - [Origamid-Wordpress](https://github.com/augustopiatto/Origamid-Wordpress) - (WordPress - PHP)
 
@@ -48,3 +47,7 @@
 - [Origamid-React](https://github.com/augustopiatto/Origamid-React) (React - JS)
 - [Wizzi-ProcessoSeletivo](https://github.com/augustopiatto/Wizzi-ProcessoSeletivo) - (Vue - JS, Vuetify)
 - [BuserProject-DjaVue](https://github.com/augustopiatto/BuserProject-DjaVue) - (Vue, Django)
+
+### Para fazer
+
+- [PLANeT](https://github.com/augustopiatto/PLANeT) - (React - JS, Flutter, Tailwind, Node - TS)
