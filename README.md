@@ -45,9 +45,12 @@
 
 ### Finalizados
 
+- [LigaMagic-ProcessoSeletivo](https://github.com/augustopiatto/LigaMagic-ProcessoSeletivo) - (Vue - JS)
+- [DNC-ProcessoSeletivo](https://github.com/augustopiatto/DNC-ProcessoSeletivo) - (Vue - JS)
+- [Tractian-ProcessoSeletivo](https://github.com/augustopiatto/Tractian-ProcessoSeletivo) - (React - TS)
 - [Codelab-Flutter](https://github.com/augustopiatto/Codelab-Flutter) - (Flutter)
 - [Origamid-React](https://github.com/augustopiatto/Origamid-React) (React - JS)
-- [Wizzi-ProcessoSeletivo](https://github.com/augustopiatto/Wizzi-ProcessoSeletivo) - (Vue - JS, Vuetify)
+- [Wizzi-ProcessoSeletivo](https://github.com/augustopiatto/Wizzi-ProcessoSeletivo) - (Vue - JS)
 - [BuserProject-DjaVue](https://github.com/augustopiatto/BuserProject-DjaVue) - (Vue, Django)
 
 ### Para fazer
