@@ -1,7 +1,7 @@
 # Quem sou eu
 
 - Convertido à desenvolvedor web em 2021, atráves do bootcamp `Busercamp`. Participei da segunda edição do bootcamp e trabalhei por 2 anos como desenvolvedor web full-stack. Originalmente sou formado em Engenharia de Materiais.
-- Sou desenvolvedor Full-Stack, mas tenho preferência por Front-End. Estou estudando bastante as tecnologias desta descrição. Caso queira ver mais sobre meu perfil, cursos, experiências, favor acessar meu [LinkedIn](https://www.linkedin.com/in/augusto-piatto/)
+- Sou desenvolvedor Full-Stack, mas tenho preferência por Front-End. Estou estudando bastante as tecnologias desta descrição. Caso queira ver mais sobre meu perfil, cursos, experiências, favor acessar meu [LinkedIn](https://www.linkedin.com/in/augusto-piatto/).
 - Como hobby gosto de jogar vôlei, viajar e cuidar de plantas que tenho em casa. Moro em São José dos Campos e gosto bastante da cidade, por isso pretendo morar por aqui mais uns anos.
 
 ## Conhecimentos
