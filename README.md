@@ -46,7 +46,7 @@
 ### Finalizados
 
 - [LigaMagic-ProcessoSeletivo](https://github.com/augustopiatto/LigaMagic-ProcessoSeletivo) - (Vue - JS)
-- [DNC-ProcessoSeletivo](https://github.com/augustopiatto/DNC-ProcessoSeletivo) - (Vue - JS)
+- [DNC-ProcessoSeletivo](https://github.com/augustopiatto/DNC-ProcessoSeletivo) - (Vue - JS, Django, PostgreSQL, Docker)
 - [Tractian-ProcessoSeletivo](https://github.com/augustopiatto/Tractian-ProcessoSeletivo) - (React - TS)
 - [Codelab-Flutter](https://github.com/augustopiatto/Codelab-Flutter) - (Flutter)
 - [Origamid-React](https://github.com/augustopiatto/Origamid-React) (React - JS)
